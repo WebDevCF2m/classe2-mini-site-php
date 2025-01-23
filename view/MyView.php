@@ -15,7 +15,7 @@
     <h1><?=$datas['titre']?> | <?=$titrepage?></h1>
     <p><?=nl2br($text)?></p>
     <?php
-//var_dump($_GET);
+var_dump($_GET,$datas);
     ?>
 </body>
 </html>
