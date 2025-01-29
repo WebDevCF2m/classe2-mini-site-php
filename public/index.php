@@ -10,7 +10,7 @@ include "../datas/datas.php";
 //var_dump($datas);
 
 // Appel du router
-include "../controller/router.php";
+include "../controller/routerController.php";
 
 
 // Appel de la vue
